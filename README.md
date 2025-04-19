@@ -29,6 +29,10 @@ Merhaba! Ben **ReDIINNN**, teknoloji, yazılım geliştirme ve oyun dünyasında
 
 ## 📝 License
 
+MIT License - [LICENSE](https://github.com/ReDIINNN/BlackVenom/blob/main/LICENSE)
+
+##  Ctf
+
 ## Tryhackme / ReDIIN
 ## HackTheBox / ReDIIN
 
