@@ -35,5 +35,3 @@ MIT License - [LICENSE](https://github.com/ReDIINNN/BlackVenom/blob/main/LICENSE
 
 ## Tryhackme / ReDIIN
 ## HackTheBox / ReDIIN
-
-MIT License - [LICENSE](https://github.com/ReDIINNN/BlackVenom/blob/main/LICENSE)
